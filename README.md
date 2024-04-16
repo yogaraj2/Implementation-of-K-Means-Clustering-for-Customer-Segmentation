@@ -8,10 +8,12 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+```
 1. Pick customer segment quantity (k).
 2.Seed cluster centers with random data points.
 3.Assign customers to closest centers.
 4.Re-center clusters and repeat until stable. 
+```
 
 ## Program:
 ```
@@ -64,6 +66,14 @@ plt.show()
 ```
 ## Output:
 ![K Means Clustering for Customer Segmentation](sam.png)
+
+![Screenshot 2024-04-16 201038](https://github.com/yogaraj2/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/153482637/69d99eb3-b61e-49f1-920f-b557e5d3a7bb)
+
+![Screenshot 2024-04-16 201049](https://github.com/yogaraj2/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/153482637/195f550d-fc60-481f-92c2-e0fca41137e4)
+ 
+![Screenshot 2024-04-16 201057](https://github.com/yogaraj2/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/153482637/e71b6e92-acbe-4b12-b82d-c1a9f9bdc96b)
+
+![image](https://github.com/yogaraj2/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/153482637/575068fe-a9ce-4069-ac0a-390bc096f999)
 
 
 ## Result:
