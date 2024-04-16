@@ -20,7 +20,7 @@ Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: 
 RegisterNumber:  
 */
-```
+
 import pandas as pd 
 import numpy as np
 from sklearn.cluster import KMeans
@@ -61,7 +61,7 @@ plt.grid(True)
 plt.axis('equal')
 plt.show()
 
-
+```
 ## Output:
 ![K Means Clustering for Customer Segmentation](sam.png)
 
