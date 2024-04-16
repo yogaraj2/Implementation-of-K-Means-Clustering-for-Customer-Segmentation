@@ -65,7 +65,6 @@ plt.show()
 
 ```
 ## Output:
-![K Means Clustering for Customer Segmentation](sam.png)
 
 ![Screenshot 2024-04-16 201038](https://github.com/yogaraj2/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/153482637/69d99eb3-b61e-49f1-920f-b557e5d3a7bb)
 
